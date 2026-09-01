@@ -3,3 +3,4 @@ flask-sqlalchemy
 joblib
 pandas
 scikit-learn
+flask_cors

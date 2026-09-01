@@ -1,4 +1,4 @@
-import PredictionForm from './components/PredictionForm.jsx';
+import PredictionForm from './components/predictionform.jsx';
 import './App.css';
 function App() {
   return (
